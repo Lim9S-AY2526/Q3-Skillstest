@@ -1,0 +1,21 @@
+body {
+    
+  background: linear-gradient(135deg, #f0f8ff, #e6f2ff);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #003366;
+}
+
+.container {
+  max-width: 500px;         
+  margin: auto;
+  border: 1px solid gray;  
+  border-radius: 6px;
+  background-color: #ffffff;
+}
+
+#output {
+  font-weight: bold;
+}
